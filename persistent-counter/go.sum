@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/vorteil/direktiv-apps/pkg v0.0.0-20211011040104-1aa6ea9ceb4f h1:Ho3Z6YdPIwy/Qh+hNDvZsoaaZR+Y6x+cq8smD/SQhF0=
+github.com/vorteil/direktiv-apps/pkg v0.0.0-20211011040104-1aa6ea9ceb4f/go.mod h1:VChd1dPyFTsapvTek20mvTGx8uda62ZL5lJTlJc+NbI=
